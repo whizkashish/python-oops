@@ -21,4 +21,6 @@ This repository provides an example of using Object-Oriented Programming (OOP) i
 ## Usage
 
 Run the main file to start the application:
+```bash
 python main.py
+```
